@@ -1,6 +1,6 @@
 {
   "name": "@trialbasecom/legal-content",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Shared legal content package for Privacy Policy and Terms and Conditions",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
