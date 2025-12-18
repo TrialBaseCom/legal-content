@@ -14,27 +14,27 @@ Customer understands that in addition to these Terms, use of the Services is als
 
 ## Key Terms
 
-- **"Pro Services"** means the services listed, quoted, scheduled, offered, contracted to provide, or provided by Service Professionals, or sought, scheduled, paid for, or received by Attorney Users through the Platform.
+"Pro Services" means the services listed, quoted, scheduled, offered, contracted to provide, or provided by Service Professionals, or sought, scheduled, paid for, or received by Attorney Users through the Platform.
 
-- **"CSR User"** means a Certified Shorthand Reporter lawfully licensed in their State to report or transcribe deposition testimony in a court proceeding or in a deposition, who uses, or is registered to use, the Platform to offer, contract, receive payment for, or facilitate the provision of Pro Services. In California, Pro Services offered by CSR Users must conform to the Scope of Practice codified in Title 16 of the California Code of Regulations, Division 24 (Court Reporters Board of California, section 2403).
+"CSR User" means a Certified Shorthand Reporter lawfully licensed in their State to report or transcribe deposition testimony in a court proceeding or in a deposition, who uses, or is registered to use, the Platform to offer, contract, receive payment for, or facilitate the provision of Pro Services. In California, Pro Services offered by CSR Users must conform to the Scope of Practice codified in Title 16 of the California Code of Regulations, Division 24 (Court Reporters Board of California, section 2403).
 
-- **"Videographer User"** means a videographer lawfully licensed in their State to video and audio record deposition testimony in a court proceeding or in a deposition, who uses, or is registered to use, the Platform to offer, contract, receive payment for, or facilitate the provision of Pro Services.
+"Videographer User" means a videographer lawfully licensed in their State to video and audio record deposition testimony in a court proceeding or in a deposition, who uses, or is registered to use, the Platform to offer, contract, receive payment for, or facilitate the provision of Pro Services.
 
-- **"Service Professional"** means a User, including a CSR User and Videographer User, who uses, or is registered to use, the Platform to offer, contract, provide, receive payment for, or facilitate the provision of Pro Services.
+"Service Professional" means a User, including a CSR User and Videographer User, who uses, or is registered to use, the Platform to offer, contract, provide, receive payment for, or facilitate the provision of Pro Services.
 
-- **"Attorney User"** means a party to litigation, an attorney of a party, or a full-time employee of a party or the attorney of a party who is registered to search for Service Professionals on the Platform, seeks Pro Services from Service Professionals on the Platform, contracts with a Service Professional to purchase a Pro Service (or receive a quote in contemplation thereof), or otherwise uses the Platform to, or agrees to these Terms in order to, receive, pay for, review, or facilitate the receipt of Pro Services for purposes related to the litigation.
+"Attorney User" means a party to litigation, an attorney of a party, or a full-time employee of a party or the attorney of a party who is registered to search for Service Professionals on the Platform, seeks Pro Services from Service Professionals on the Platform, contracts with a Service Professional to purchase a Pro Service (or receive a quote in contemplation thereof), or otherwise uses the Platform to, or agrees to these Terms in order to, receive, pay for, review, or facilitate the receipt of Pro Services for purposes related to the litigation.
 
-- **"User"** means a person or entity who completes TrialBase's account registration process, agrees to these Terms, utilizes any services offered by or through the Platform, or a person or entity who submits or receives a request through TrialBase, including but not limited to Service Professionals and Attorney Users.
+"User" means a person or entity who completes TrialBase's account registration process, agrees to these Terms, utilizes any services offered by or through the Platform, or a person or entity who submits or receives a request through TrialBase, including but not limited to Service Professionals and Attorney Users.
 
-- **"Platform"** means all TrialBase websites, mobile or other applications, software, processes, video consultations, subscription services, and any other services provided by or through TrialBase.
+"Platform" means all TrialBase websites, mobile or other applications, software, processes, video consultations, subscription services, and any other services provided by or through TrialBase.
 
-- **"Content"** means text, graphics, images, music, software, audio, video, information or other materials, including but not limited to profile information, Pro Services requests, quotes, message threads, reviews, scheduling and calendar information, and other information or materials available on or through the Platform.
+"Content" means text, graphics, images, music, software, audio, video, information or other materials, including but not limited to profile information, Pro Services requests, quotes, message threads, reviews, scheduling and calendar information, and other information or materials available on or through the Platform.
 
-- **"User Content"** means all Content submitted, posted, uploaded, published, or transmitted on or through the Platform by any User or other user of the Platform, including but not limited to photographs, profile information, descriptions, postings, reviews, requests, messages, and payments made through the Platform, but excluding TrialBase Content and Feedback.
+"User Content" means all Content submitted, posted, uploaded, published, or transmitted on or through the Platform by any User or other user of the Platform, including but not limited to photographs, profile information, descriptions, postings, reviews, requests, messages, and payments made through the Platform, but excluding TrialBase Content and Feedback.
 
-- **"Privacy Policy"** means the TrialBase Privacy Policy located at https://trialbase.com/privacy, including any amendments, supplements or modifications thereto made from time to time.
+"Privacy Policy" means the TrialBase Privacy Policy located at {{DOMAIN}}/privacy, including any amendments, supplements or modifications thereto made from time to time.
 
-- **"Rate"** means any amount charged by Service Professionals to an Attorney User in connection with performing Pro Services.
+"Rate" means any amount charged by Service Professionals to an Attorney User in connection with performing Pro Services.
 
 ## Authorized Users
 
@@ -142,7 +142,7 @@ Notwithstanding the foregoing, you acknowledge and agree that TrialBase is under
 
 ## Privacy
 
-Our Privacy Policy, available at https://trialbase.com/privacy, governs what and how we collect and use your personal information, and is incorporated by reference into these Terms of Use.
+Our Privacy Policy, available at {{DOMAIN}}/privacy, governs what and how we collect and use your personal information, and is incorporated by reference into these Terms of Use.
 
 ## Intellectual Property Rights
 

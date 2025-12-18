@@ -16,15 +16,15 @@ For clarity: in many cases, TrialBase acts as a service provider to law firms an
 
 The personal information we collect, such as your name, physical address, email, and phone number, are used for the purpose of providing our service. Depending on how you interact with us, we may also collect or receive:
 
-- **Account registration details** and authentication information (e.g., login credentials or tokens) for users who create accounts.
+- Account registration details and authentication information (e.g., login credentials or tokens) for users who create accounts.
 
-- **Business contact information** (e.g., firm/company name, title/role, bar jurisdiction if provided, office location).
+- Business contact information (e.g., firm/company name, title/role, bar jurisdiction if provided, office location).
 
-- **Communications and support content** (e.g., emails, chat messages, tickets, call recordings where permitted by law).
+- Communications and support content (e.g., emails, chat messages, tickets, call recordings where permitted by law).
 
-- **Usage data** about how you interact with the Services (e.g., feature utilization, timestamps, performance logs).
+- Usage data about how you interact with the Services (e.g., feature utilization, timestamps, performance logs).
 
-- **Information submitted or uploaded** in connection with litigation support workflows (e.g., deposition notices, scheduling details, transcript requests, exhibit handling instructions), to the extent provided through the website/portal.
+- Information submitted or uploaded in connection with litigation support workflows (e.g., deposition notices, scheduling details, transcript requests, exhibit handling instructions), to the extent provided through the website/portal.
 
 ## Other Ways We Collect User Information
 
@@ -32,7 +32,7 @@ We may also collect anonymous information from visits to our website through the
 
 When you visit or log in to our website, cookies and similar technologies may be used by us or our vendors to associate these activities with other personal information they or others have about you, including by association with your name, your email, or other information. We (or service providers on our behalf) may then send marketing communications to you using this information.
 
-In addition, a third party service called Microsoft Clarity may be used to capture how you interact with our website through behavioral metrics, heatmaps, and session replay to improve our products/services. Additionally, we use this information for site optimization and fraud/security purposes. For more information about how Microsoft collects and uses your data, visit the Microsoft Privacy Statement.
+In addition, a third party service called Microsoft Clarity may be used to capture how you interact with our website through behavioral metrics, heatmaps, and session replay to improve our products/services. Additionally, we use this information for site optimization and fraud/security purposes. For more information about how Microsoft collects and uses your data, visit the [Microsoft Privacy Statement](https://www.microsoft.com/en-US/privacy/privacystatement).
 
 ## Cookies and Tracking Controls
 
@@ -96,7 +96,7 @@ TrialBase may use third-party vendors (including hosting, analytics, customer su
 
 ### Third-Party Payment Processor
 
-We may also securely collect information about your credit card or bank account through a secure third-party payment processor, Stripe, Inc. This payment information is not held by us. For more information about how Stripe, Inc. collects and uses your data, visit the Stripe Privacy Policy.
+We may also securely collect information about your credit card or bank account through a secure third-party payment processor, Stripe, Inc. This payment information is not held by us. For more information about how Stripe, Inc. collects and uses your data, visit the [Stripe Privacy Policy](https://stripe.com/privacy).
 
 ### Legal and Compliance Disclosures
 
