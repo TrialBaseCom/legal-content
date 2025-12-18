@@ -1,12 +1,7 @@
 // Re-export all legal content
-export {
-  privacyPolicy,
-  type LegalDocument as PrivacyPolicyDocument,
-} from './privacy-policy';
-export {
-  termsAndConditions,
-  type LegalDocument as TermsDocument,
-} from './terms';
+export { privacyPolicy } from './privacy-policy';
+export { termsAndConditions } from './terms';
+export { aiAddendum } from './ai-addendum';
 
 // Re-export the common interface
-export type { LegalDocument } from './privacy-policy';
+export type { LegalDocument } from './types';
