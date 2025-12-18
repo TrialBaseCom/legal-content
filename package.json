@@ -1,0 +1,32 @@
+{
+  "name": "@trialbasecom/legal-content",
+  "version": "1.0.0",
+  "description": "Shared legal content package for Privacy Policy and Terms and Conditions",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrialBaseCom/legal-content.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "keywords": [
+    "legal",
+    "privacy-policy",
+    "terms-and-conditions",
+    "shared-content"
+  ],
+  "author": "TrialBase",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
